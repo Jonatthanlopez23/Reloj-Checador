@@ -12,8 +12,7 @@ Al crear el programa, se establecieron mal algunos valores para poder ingresar y
 
 Solución:
 
-Para poder solucionar la base de datos, se tuvo que re ingresar el código principal para desplegar los valores dentro de un “if” y “while”, esto para pudiera poder mostrar los objetos de manera individual y poder enumerar cada uno de los artículos añadidos.
-
+Para poder solucionar la base de datos, se tuvo que re ingresar el código principal, esto para pudiera poder mostrar los registros de los empleados.
 
 
 Arquitectura:
