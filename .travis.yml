@@ -1,12 +1,3 @@
 language: java
 
-{
-  "language": "java",
-  "os": [
-    "linux"
-  ],
-  "dist": "xenial",
-  "jdk": [
-    "openjdk8"
-  ]
-}
+
